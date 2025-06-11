@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning NextJs <br>🎯 Goals: Build scalable web applications and improve backend development skills<br>🎲 Fun fact: I love gaming, music, and exploring new tech trends!</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Angular <br>🎯 Goals: Build scalable web applications and improve backend development skills<br>🎲 Fun fact: I love gaming, music, and exploring new tech trends!</p>
 
 ###
 
